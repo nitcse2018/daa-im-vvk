@@ -1,0 +1,38 @@
+-----------------------RESUME(Fname Lname)-------------------------------
+
+
+
+----Personal Details-----
+
+Name : Fname Lname
+Sex :  Male
+Date of Birth :  01/01/2000
+Father's Name :  FFname LFname
+Address :  Narela, New Delhi
+
+ -----Qualifications-----
+School Name : Dummy School Name
+Marks : 80
+Year of Passing : 2017
+
+College Name : NIT Delhi
+Marks : 8
+Year of Passing : 2022
+
+----Skills---
+Skill1, Skill2
+Dummy Skill
+Dummy Skill
+
+----Experiences----
+This is dummy experience1,
+This is dummy experience2
+
+----Projects and Achievements----
+Project1- Dummy Desc
+Project2 - Dummy Desc
+Project3 - Dummy Desc
+
+----Carrier Objective----
+This is the dummy carrier objective
+another line of carrier objective
